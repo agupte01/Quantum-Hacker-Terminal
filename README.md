@@ -263,3 +263,18 @@ Browser                              FastAPI (port 8000)
 | 3D Visualisation | Three.js |
 | Styling | Pure CSS (custom properties, CSS Grid) |
 | Transport | REST + WebSocket |
+
+## License
+Copyright (c) 2026 Aniruddha Gupte
+
+This software and its source code are the exclusive property of the author.
+Permission is granted for personal, non-commercial use only.
+
+You may NOT:
+
+* Copy, redistribute, sublicense, or sell this software
+* Modify and publish derivative works
+* Use this project or its code for commercial purposes
+* Claim this software as your own work
+
+Unauthorized reproduction, distribution, or commercial usage of any part of this software is strictly prohibited without explicit written permission from the author.
